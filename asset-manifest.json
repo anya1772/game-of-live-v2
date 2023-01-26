@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.8063d7f8.js",
-    "static/js/787.883938cb.chunk.js": "/static/js/787.883938cb.chunk.js",
-    "index.html": "/index.html",
-    "main.8063d7f8.js.map": "/static/js/main.8063d7f8.js.map",
-    "787.883938cb.chunk.js.map": "/static/js/787.883938cb.chunk.js.map"
+    "main.js": "/game-of-live-v2/static/js/main.f16697e4.js",
+    "static/js/787.883938cb.chunk.js": "/game-of-live-v2/static/js/787.883938cb.chunk.js",
+    "index.html": "/game-of-live-v2/index.html",
+    "main.f16697e4.js.map": "/game-of-live-v2/static/js/main.f16697e4.js.map",
+    "787.883938cb.chunk.js.map": "/game-of-live-v2/static/js/787.883938cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.8063d7f8.js"
+    "static/js/main.f16697e4.js"
   ]
 }
